@@ -4,7 +4,6 @@ I'm currently pursuing a Master's degree at the School of Statistics and Data Sc
 
 #### Email  
 <code>42111038@smail.swufe.edu.cn</code>  
-<code>1455024883@qq.com</code>
 
 #### Education  
 **XiaMen University**, Master of Statistics (2025 – 2028)  
